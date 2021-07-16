@@ -1,0 +1,6 @@
+          <NavigationContainer>
+      <Tab.Navigator>
+        <Tab.Screen name="Add entr" component={AddEntry} />
+        <Tab.Screen name="App" component={App} />
+      </Tab.Navigator>
+    </NavigationContainer>
